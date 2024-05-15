@@ -1259,7 +1259,6 @@ except requests.exceptions.ConnectionError:
         exit()
 except Exception as e:
         print(e)
-        
         def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
